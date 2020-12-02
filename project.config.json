@@ -9,6 +9,11 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "1jso5AUwmJyePeMs48v65IrJb8yvFDsPKfhDWQy4rsbQ",
+      "type": "sheet",
+      "name": "bands"
     }
   ],
   "to_bake": [
@@ -18,6 +23,15 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-bands",
+      "data": "bands",
+      "array": "members",
+      "slug": "slug",
+      "path": "members"
+    
     }
+
   ]
 }

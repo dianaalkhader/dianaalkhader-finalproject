@@ -6,10 +6,10 @@
 
 {% block content %}
 <div class="container">
-  <h1>Queen</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis velit, aliquam congue dui. Mauris id mi quam. Nam enim leo, bibendum vel efficitur id, elementum malesuada est. Pellentesque interdum tempus eros nec iaculis. Quisque ac est dictum, vehicula nulla quis, condimentum dui.</p>
-  <h2>Library books loop</h2>
-  <p>This loops through data that came from a Google Docs example.</p>
+  <h1></h1>
+  <p>This website is dedicated to the British rock band formed in the 1970s known as Queen. Queen's earlist music was influenced by rock and hevay metal. However, over time the band transfomed their work to incorporate styles such as pop rock. This allowed for the band to become more radio-friendly. About 50 years since their debut, Queen has still managed to hold a special place in the hearts of many..</p>
+  <h2></h2>
+  <p></p>
   <div class="row">
     {% for member in bands.members %}
       <div class="col">
@@ -19,13 +19,14 @@
       </div>
     {% endfor %}
   </div>
-  <h2>Bookstores loop</h2>
-  <p>This loops through data that came from a Google Sheet example.</p>
+  <h2></h2>
+  
   <hr>
+  <p>Discography</p>
   {% for album in discography.albums %}
   <img src="img/img-queen/discs/{{ album.image }}" alt="" class="img-fluid">
     <h3><a href="{{ store.url }}" target="_blank">{{ store.name }}</a></h3>
-    <p>{{ store.address}}, {{ store.city }}, {{ store.state }} {{ store.zip }}</p>
+    <p>{{ album.title}} ({{ album.year }})</p>
     <hr>
   {% endfor %}
 </div>
