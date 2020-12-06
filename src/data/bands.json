@@ -44,5 +44,353 @@
       "imagebw": "john-deacon-bw.jpg",
       "description": "<p>John Richard Deacon (born 19 August 1951) is an English retired musician, best known for being the bass guitarist for the rock band Queen. He composed several singles for the group—including Top 10 hits \"You're My Best Friend\", \"Another One Bites the Dust\", \"Back Chat\", and \"I Want to Break Free\"—and was involved in the band's financial management.</p>\n<p>Deacon grew up in Oadby, Leicestershire, playing bass in a local band, The Opposition, before moving to study electronics at Chelsea College, London. He joined Queen in 1971 on the strength of his musical and electronic skills, particularly the home-made Deacy Amp which guitarist Brian May used to create guitar orchestras throughout Queen's career. From the third album, Sheer Heart Attack, onwards, he wrote at least one song per album, several of which became hits. As well as bass, Deacon played some guitar and keyboards on Queen's studio work, but was the only member never to sing on their records, though he did contribute backing vocals during live performances.</p>\n<p>Following frontman Freddie Mercury's death in 1991, and the following year's Tribute Concert, Deacon only performed a few times with the remaining members of Queen before retiring from the music industry in 1997 after recording \"No-One but You (Only the Good Die Young)\". He has not performed on any of the other projects that the other two surviving members, May and Roger Taylor, have put together.</p>\n<p>- Source: <a href=\"https://en.wikipedia.org/wiki/John_Deacon\">Wikipedia</a></p>"
     }
+  ],
+  "discography": [
+    {
+      "title": "Queen",
+      "year": 1973,
+      "image": "Queen_Queen.png"
+    },
+    {
+      "title": "Queen II",
+      "year": 1974,
+      "image": "Queen_Queen_II.jpg"
+    },
+    {
+      "title": "Sheer Heart Attack",
+      "year": 1974,
+      "image": "Queen_Sheer_Heart_Attack.png"
+    },
+    {
+      "title": "A Night at the Opera",
+      "year": 1975,
+      "image": "Queen_A_Night_At_The_Opera.png"
+    },
+    {
+      "title": "A Day at the Races",
+      "year": 1976,
+      "image": "Queen_A_Day_at_the_Races.jpg"
+    },
+    {
+      "title": "News of the World",
+      "year": 1977,
+      "image": "Queen_News_Of_The_World.png"
+    },
+    {
+      "title": "Jazz",
+      "year": 1978,
+      "image": "Queen_Jazz.png"
+    },
+    {
+      "title": "The Game",
+      "year": 1980,
+      "image": "Queen_The_Game.png"
+    },
+    {
+      "title": "Flash Gordon (Original Soundtrack)",
+      "year": 1980,
+      "image": "Queen_Flash_Gordon.png"
+    },
+    {
+      "title": "Hot Space",
+      "year": 1982,
+      "image": "Queen_Hot_Space.png"
+    },
+    {
+      "title": "The Works",
+      "year": 1984,
+      "image": "Queen_The_Works.png"
+    },
+    {
+      "title": "A Kind of Magic",
+      "year": 1986,
+      "image": "Queen_A_Kind_Of_Magic.png"
+    },
+    {
+      "title": "The Miracle",
+      "year": 1989,
+      "image": "Queen_The_Miracle.png"
+    },
+    {
+      "title": "Innuendo",
+      "year": 1991,
+      "image": "Queen_Innuendo.png"
+    },
+    {
+      "title": "Made in Heaven",
+      "year": 1995,
+      "image": "Queen_Made_in_Heaven.jpg"
+    }
+  ],
+  "billboard": [
+    {
+      "Performer": "Queen",
+      "Song": "Another One Bites The Dust",
+      "Weeks on chart": 31,
+      "Top position": 1
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Crazy Little Thing Called Love",
+      "Weeks on chart": 22,
+      "Top position": 1
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Bohemian Rhapsody",
+      "Weeks on chart": 44,
+      "Top position": 2
+    },
+    {
+      "Performer": "Queen",
+      "Song": "We Will Rock You/We Are The Champions",
+      "Weeks on chart": 41,
+      "Top position": 4
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Body Language",
+      "Weeks on chart": 14,
+      "Top position": 11
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Killer Queen",
+      "Weeks on chart": 19,
+      "Top position": 12
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Somebody To Love",
+      "Weeks on chart": 15,
+      "Top position": 13
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Radio Ga-ga",
+      "Weeks on chart": 13,
+      "Top position": 16
+    },
+    {
+      "Performer": "Queen",
+      "Song": "You're My Best Friend",
+      "Weeks on chart": 16,
+      "Top position": 16
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Bicycle Race/Fat Bottomed Girls",
+      "Weeks on chart": 12,
+      "Top position": 24
+    },
+    {
+      "Performer": "Queen",
+      "Song": "A Kind Of Magic",
+      "Weeks on chart": 11,
+      "Top position": 42
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Flash's Theme Aka Flash",
+      "Weeks on chart": 10,
+      "Top position": 42
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Play The Game",
+      "Weeks on chart": 9,
+      "Top position": 42
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Need Your Loving Tonight",
+      "Weeks on chart": 11,
+      "Top position": 44
+    },
+    {
+      "Performer": "Queen",
+      "Song": "I Want To Break Free",
+      "Weeks on chart": 8,
+      "Top position": 45
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Tie Your Mother Down",
+      "Weeks on chart": 6,
+      "Top position": 49
+    },
+    {
+      "Performer": "Queen",
+      "Song": "I Want It All",
+      "Weeks on chart": 10,
+      "Top position": 50
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Calling All Girls",
+      "Weeks on chart": 6,
+      "Top position": 60
+    },
+    {
+      "Performer": "Queen",
+      "Song": "One Vision",
+      "Weeks on chart": 10,
+      "Top position": 61
+    },
+    {
+      "Performer": "Queen",
+      "Song": "It's A Hard Life",
+      "Weeks on chart": 4,
+      "Top position": 72
+    },
+    {
+      "Performer": "Queen",
+      "Song": "It's Late",
+      "Weeks on chart": 5,
+      "Top position": 74
+    },
+    {
+      "Performer": "Queen",
+      "Song": "Don't Stop Me Now",
+      "Weeks on chart": 4,
+      "Top position": 86
+    }
+  ],
+  "tour2021": [
+    {
+      "date": "5/23/2021",
+      "city": "Bologna, Italy",
+      "venue": "Unipol Arena"
+    },
+    {
+      "date": "5/26/2021",
+      "city": "Paris, France",
+      "venue": "AccorHotels Arena (Postponed)"
+    },
+    {
+      "date": "5/27/2021",
+      "city": "Antwerp Belgium",
+      "venue": "Sportspalais"
+    },
+    {
+      "date": "5/29/2021",
+      "city": "Amsterdam, Netherlands",
+      "venue": "Ziggo Dome"
+    },
+    {
+      "date": "5/30/2021",
+      "city": "Amsterdam, Netherlands",
+      "venue": "Ziggo Dome"
+    },
+    {
+      "date": "6/1/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/2/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/4/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/5/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/7/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/8/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/10/2021",
+      "city": "Manchester, UK",
+      "venue": "Manchester Arena"
+    },
+    {
+      "date": "6/11/2021",
+      "city": "Manchester, UK",
+      "venue": "Manchester Arena"
+    },
+    {
+      "date": "6/13/2021",
+      "city": "Birmingham, UK",
+      "venue": "Arena Birmingham"
+    },
+    {
+      "date": "6/14/2021",
+      "city": "Birmingham, UK",
+      "venue": "Arena Birmingham"
+    },
+    {
+      "date": "6/16/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/17/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/19/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/20/2021",
+      "city": "London, UK",
+      "venue": "O2"
+    },
+    {
+      "date": "6/24/2021",
+      "city": "Berlin, Germany",
+      "venue": "Mercedes-Benz Arena"
+    },
+    {
+      "date": "6/26/2021",
+      "city": "Cologne, Germany",
+      "venue": "Lanxess Arena"
+    },
+    {
+      "date": "6/28/2021",
+      "city": "Zurich, Switzerland",
+      "venue": "Hallenstadion"
+    },
+    {
+      "date": "6/29/2021",
+      "city": "Munich, Germany",
+      "venue": "Olympiahalle"
+    },
+    {
+      "date": "7/1/2021",
+      "city": "Copenhagen, Denmark",
+      "venue": "Royal Arena"
+    },
+    {
+      "date": "7/2/2021",
+      "city": "Copenhagen, Denmark",
+      "venue": "Royal Arena"
+    },
+    {
+      "date": "7/6/2021",
+      "city": "Madrid, Spain",
+      "venue": "Wiznik Centre"
+    },
+    {
+      "date": "7/7/2021",
+      "city": "Madrid, Spain",
+      "venue": "Wiznik Centre"
+    }
   ]
 }
