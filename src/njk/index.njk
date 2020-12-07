@@ -1,13 +1,13 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Index page title{% endblock %}
+{% block page_title %}The Homepage{% endblock %}
 
-{% block page_description %}The index search description for this page goes here.{% endblock %}
+{% block page_description %}The homepage of a website dedicated to Queen {% endblock %}
 
 {% block content %}
 <div class="container">
   <h2>Queen</h2>
-  <p>This website is dedicated to the British rock band formed in the 1970s known as Queen. Queen's earlist music was influenced by rock and hevay metal. However, over time the band transfomed their work to incorporate styles such as pop rock. This allowed for the band to become more radio-friendly. About 50 years since their debut, Queen has still managed to hold a special place in the hearts of many..</p>
+  <p> <center> This website is dedicated to the British rock band formed in the 1970s known as Queen. Queen's earlist music was influenced by rock and hevay metal. However, over time the band transfomed their work to incorporate styles such as pop rock. This allowed for the band to become more radio-friendly. About 50 years since their debut, Queen has still managed to hold a special place in the hearts of many.</p>
   <h2>Meet The Members</h2>
   <p></p>
   <div class="row">
@@ -21,32 +21,34 @@
       </div>
     {% endfor %}
   </div>
-  </div>
+</div>
   <h2></h2>
   
   
-  <hr>
-  <div class="container">
+<hr>
+<div class="container">
   <h2>Albums</h2>
   <div class="row">
   {% for album in discography.albums %}
   <div class="col-md-4 col-md-3 text-center">
   <img src="img/img-queen/discs/{{ album.image }}" alt="" class="img-fluid">
-    <h3><a href="{{ store.url }}" target="_blank">{{ store.name }}</a></h3>
+    
     <p>{{ album.title}} ({{ album.year }})</p>
     <hr>
   
-  </div>
+</div>
   {% endfor %}
   <hr>
   <div class="container">
   <h2> <center> Billboard Charts </h2>
   </div>
-  <hr>
+<hr>
   
   <iframe title="" aria-label="chart" id="datawrapper-chart-AlQqC" src="https://datawrapper.dwcdn.net/AlQqC/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="917"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
   </script>
+    
+  </div>
+  </div>
 
-</div>
-</div>
+
 {% endblock %}

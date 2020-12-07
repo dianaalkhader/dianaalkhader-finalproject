@@ -2,7 +2,7 @@
 
 {% set relative_path = "../" %}
 
-{% block page_title %}{{ title }}{% endblock %}
+{% block page_title %}{{ name }}{% endblock %}
 
 {% block page_description %}{{ title }} by {{ author }}{% endblock %}
 
@@ -13,9 +13,9 @@
           <img src="../img/img-queen/members/{{ imagebw }}"  alt="" class="img-fluid">
       </div>
       <div class="col-sm-8">
-          <h3>{{ name }}</h3>
-          <h2> </h2>
+          <h3>{{ name }} {{tenure}}</h3>
           <h4>{{instruments}}</h4>
+          <h6>Birthday: {{birthdate}}</h6>
           <h6>{{birthplace}}</h6>
           <p>{{ description | safe }}</p>
       </div>
